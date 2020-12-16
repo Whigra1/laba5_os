@@ -53,4 +53,4 @@ Second optimization code:
             Console.WriteLine($"New2 func exec in {elapsedMs} ms.");
             
 Results: 
-            
+            ![Test Image 1](image.png)
